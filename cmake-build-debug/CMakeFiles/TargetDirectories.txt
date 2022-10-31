@@ -1,0 +1,3 @@
+/Users/peiwenliao/Documents/Prog1/Lab_1A/cmake-build-debug/CMakeFiles/Lab_1A.dir
+/Users/peiwenliao/Documents/Prog1/Lab_1A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/peiwenliao/Documents/Prog1/Lab_1A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
